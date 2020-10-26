@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E2240FDE-F909-408D-84DC-AAFD530F2D75}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project2/Temperature.cs">
+    <Files>
+      <File FileName="Project1/Program.cs" Line="24" Column="1" />
+      <File FileName="Project1/Odometer.cs" />
+      <File FileName="Project2/Program.cs" Line="7" Column="29" />
+      <File FileName="Project2/Temperature.cs" Line="39" Column="20" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework7" expanded="True">
+            <Node name="Project1" expanded="True" />
+            <Node name="Project2" expanded="True">
+              <Node name="Temperature.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Project2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/stephanie/Projects/Homework7/Project1/Program.cs" relfile="Project1/Program.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

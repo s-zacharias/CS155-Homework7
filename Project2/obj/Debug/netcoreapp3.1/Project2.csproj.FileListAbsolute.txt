@@ -1,0 +1,12 @@
+/Users/stephanie/Projects/Homework7/Project2/obj/Debug/netcoreapp3.1/Project2.csprojAssemblyReference.cache
+/Users/stephanie/Projects/Homework7/Project2/obj/Debug/netcoreapp3.1/Project2.AssemblyInfoInputs.cache
+/Users/stephanie/Projects/Homework7/Project2/obj/Debug/netcoreapp3.1/Project2.AssemblyInfo.cs
+/Users/stephanie/Projects/Homework7/Project2/obj/Debug/netcoreapp3.1/Project2.csproj.CoreCompileInputs.cache
+/Users/stephanie/Projects/Homework7/Project2/bin/Debug/netcoreapp3.1/Project2.deps.json
+/Users/stephanie/Projects/Homework7/Project2/bin/Debug/netcoreapp3.1/Project2.runtimeconfig.json
+/Users/stephanie/Projects/Homework7/Project2/bin/Debug/netcoreapp3.1/Project2.runtimeconfig.dev.json
+/Users/stephanie/Projects/Homework7/Project2/bin/Debug/netcoreapp3.1/Project2.dll
+/Users/stephanie/Projects/Homework7/Project2/bin/Debug/netcoreapp3.1/Project2.pdb
+/Users/stephanie/Projects/Homework7/Project2/obj/Debug/netcoreapp3.1/Project2.dll
+/Users/stephanie/Projects/Homework7/Project2/obj/Debug/netcoreapp3.1/Project2.pdb
+/Users/stephanie/Projects/Homework7/Project2/obj/Debug/netcoreapp3.1/Project2.genruntimeconfig.cache
